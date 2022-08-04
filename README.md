@@ -7,7 +7,7 @@
 ````zsh
 > help --info
 > 19 years old
-> Leaker, Journalist, Social Organizer, Moderator, Telecom Field Engineer.
+> Leaker, Journalist, Social Organizer, Telecom Field Engineer.
 > Stolen from Jason who stole it from Brandon Saldan, but with zsh
 ````
 
