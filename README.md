@@ -15,6 +15,6 @@
 > help --contact
 > discord: jioriku#2294
 > twitter: jioriku
-> mailto: wood@winterisabottom.com for general contact
+> mailto: wood@jio.gay for general contact
 > mailto: mcguire@appleosophy.com for business relations
 ````
