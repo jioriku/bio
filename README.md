@@ -7,7 +7,7 @@
 ````zsh
 > help --info
 > 19 years old
-> Leaker, Journalist, Social Organizer, Field Engineer.
+> Outreach Ops, Journalist, Social Organizer, Field Engineer.
 > Stolen from Jason who stole it from Brandon Saldan
 ````
 
