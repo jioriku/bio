@@ -1,6 +1,5 @@
 ### Heya, Jio/Pocket here~ 🚀<br/>
 
-<a href="https://discord.com/users/723125575182712835">
   <img src="https://lanyard-profile-readme.vercel.app/api/723125575182712835?bg=0d1117" align="left" />
 </a>
 
