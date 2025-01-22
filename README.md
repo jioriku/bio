@@ -1,18 +1,18 @@
-### Heya, Jio/Pocket here~ 🚀<br/>
+### Hi hi! Jio/McGuire here~ 🚀<br/>
 
 </a>
 
 ````zsh
 > help --info
-> 19 years old
-> Outreach Ops, Journalist, Social Organizer, Field Engineer.
+> 21 years old
+> Director of Information Technology & Cybersecurity @ OffKai Expo, Tech/Talent @ prodYakkai, Oshi Oasis Tech @ Holiday Matsuri
+> Event prod, VTuber babysitter, IT admin
 > Stolen from Jason who stole it from Brandon Saldan
 ````
 
 ````zsh
 > help --contact
-> discord: jioriku#2294
+> discord: jioriku_en
 > twitter: jioriku
-> mailto: wood@jio.gay for general contact
-> mailto: mcguire@appleosophy.com for business relations
+> mailto: wood@prodyakkai.com for business relations
 ````
