@@ -5,7 +5,7 @@
 ````zsh
 > help --info
 > 21 years old
-> Director of Information Technology & Cybersecurity @ OffKai Expo, Tech/Talent @ prodYakkai, Oshi Oasis Tech @ Holiday Matsuri
+> Director of Information Technology/Cybersecurity @ OffKai Expo, Tech/Talent @ prodYakkai, Oshi Oasis Tech @ Holiday Matsuri
 > Event prod, VTuber babysitter, IT admin
 > Stolen from Jason who stole it from Brandon Saldan
 ````
