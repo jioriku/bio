@@ -21,7 +21,7 @@
 ````zsh
 > help --current roles
 >
-> Director of Information Technology/Cybersecurity @ OffKai Expo
+> Director of Information Technology/Cybersecurity/Robotics & iPads @ OffKai Expo
 > Tech/Talent @ prodYakkai
 ````
 
