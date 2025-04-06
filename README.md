@@ -25,7 +25,7 @@
 > Tech/Talent @ prodYakkai
 ````
 
-````
+````zsh
 > help --past roles
 >
 > Oshi Oasis Ops @ Holiday Matsuri
