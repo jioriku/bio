@@ -6,7 +6,7 @@
 > help --info
 >
 > 21 years old
-> Event prod, VTuber babysitter, IT admin
+> Event production, VTuber babysitter, IT admin
 > Stolen from Jason who stole it from Brandon Saldan
 ````
 
