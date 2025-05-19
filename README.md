@@ -15,14 +15,14 @@
 >
 > discord: jioriku_en
 > twitter: jioriku
-> mailto: wood@prodyakkai.com for business relations
+> mailto: mcguire@prodyakkai.com for business relations
 ````
 
 ````zsh
 > help --current roles
 >
 > Director of Information Technology/Cybersecurity/Robotics & iPads @ OffKai Expo
-> Tech/Talent @ prodYakkai
+> Co-Founder & Producer @ prodYakkai
 ````
 
 ````zsh
