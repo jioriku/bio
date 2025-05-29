@@ -19,7 +19,7 @@
 ````
 
 ````zsh
-> help --current roles
+> help --current roles/projects
 >
 > Director of Information Technology/Cybersecurity/Robotics & iPads @ OffKai Expo
 > Co-Founder & Producer @ prodYakkai
