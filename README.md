@@ -29,6 +29,6 @@
 > help --past roles/projects
 >
 > Oshi Oasis Ops @ Holiday Matsuri 2024
-> AV/IT @ Fantome Thief's Revenge (oshiSPARK)
+> AV/IT @ Fantome Thiefs Revenge
 > Remote Tech @ Carrier Con 2025
 > Stream Tech @ Anikura Unison 2025
