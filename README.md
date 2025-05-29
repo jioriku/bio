@@ -26,9 +26,9 @@
 ````
 
 ````zsh
-> help --past roles
+> help --past roles/projects
 >
-> Oshi Oasis Ops @ Holiday Matsuri
-> AV/IT @ oshiSPARK
-> Remote Tech @ Carrier Con
-> Stream Tech @ AniCLover
+> Oshi Oasis Ops @ Holiday Matsuri 2024
+> AV/IT @ Fantome Thief's Revenge (oshiSPARK)
+> Remote Tech @ Carrier Con 2025
+> Stream Tech @ Anikura Unison 2025
