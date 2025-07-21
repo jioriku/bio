@@ -5,7 +5,7 @@
 ````zsh
 > help --info
 >
-> 21 years old
+> 22
 > Event production, VTuber babysitter, IT admin
 > Stolen from Jason who stole it from Brandon Saldan
 ````
